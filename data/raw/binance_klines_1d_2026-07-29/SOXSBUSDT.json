@@ -1,0 +1,39 @@
+{
+  "provenance": {
+    "source": "Binance public REST API",
+    "endpoint": "/api/v3/klines",
+    "params": {
+      "symbol": "SOXSBUSDT",
+      "interval": "1d",
+      "startTime": 1514764800000,
+      "endTime": 1785283199999,
+      "limit": 1000
+    },
+    "requested_interval": "[start, end)",
+    "requested_range_utc": [
+      "2018-01-01T00:00:00+00:00",
+      "2026-07-29T00:00:00+00:00"
+    ],
+    "returned_range_utc": [
+      null,
+      null
+    ],
+    "pulled_at_utc": "2026-07-29T23:10:56.069842+00:00",
+    "n_rows": 0,
+    "field_order": [
+      "open_time",
+      "open",
+      "high",
+      "low",
+      "close",
+      "volume",
+      "close_time",
+      "quote_asset_volume",
+      "n_trades",
+      "taker_buy_base_volume",
+      "taker_buy_quote_volume",
+      "ignore"
+    ]
+  },
+  "klines": []
+}

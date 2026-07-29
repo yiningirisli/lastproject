@@ -1,0 +1,18 @@
+{
+  "completed_at_utc": "2026-07-29T23:11:24.048469+00:00",
+  "requested_range": [
+    "2018-01-01",
+    "2026-07-29"
+  ],
+  "end_is_exclusive": true,
+  "candidate_count_before_smoke_limit": 468,
+  "attempted_count": 468,
+  "pulled_count": 465,
+  "skipped_count": 3,
+  "failed_count": 0,
+  "failures": [],
+  "available_symbol_file_count": 468,
+  "missing_symbol_file_count": 0,
+  "missing_symbols": [],
+  "complete": true
+}

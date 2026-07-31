@@ -1,0 +1,2 @@
+feature,status,category,source_paper,formula_or_parameters,result_metric,result_value,decision,decision_reason,experiment_date_utc,git_commit,notes
+<actual attempted feature>,tested_rejected,,,,mean_rank_ic,,DROP,<why it was rejected>,,,

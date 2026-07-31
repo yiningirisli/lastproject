@@ -1,0 +1,2 @@
+fold,train_start,train_end,test_start,test_end,n_train_rows,n_test_rows,n_train_dates,n_test_dates,embargo_days
+1,2023-01-01,2025-12-26,2026-01-01,2026-07-27,50043,9869,1091,208,5

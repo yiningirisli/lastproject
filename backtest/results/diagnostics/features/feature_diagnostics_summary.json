@@ -1,0 +1,13 @@
+{
+  "n_model_rows": 123233,
+  "n_complete_feature_rows": 123233,
+  "n_features": 21,
+  "vif_sample_rows": 50000,
+  "corr_threshold_abs": 0.8,
+  "vif_threshold": 5.0,
+  "n_high_corr_pairs": 5,
+  "n_features_vif_above_threshold": 8,
+  "highest_vif_feature": "log_prc",
+  "highest_vif": 17.963097875961527,
+  "interpretation_note": "High correlation/VIF does not automatically require deletion for tree models, but it weakens coefficient stability and feature-attribution interpretation. If near-duplicates remain, document the economic reason or use a representative feature."
+}

@@ -1,0 +1,25 @@
+check,value,note
+input_rows,538888,Rows before safeguards
+input_symbols,458,Symbols before safeguards
+duplicate_symbol_dates_removed,0,Kept last duplicate
+excluded_rows,11399,Explicit instrument-type exclusions
+excluded_symbols,54,Explicit instrument-type exclusions
+calendar_gaps_detected,6,Histories reset at gaps
+remaining_rows,527489,Rows after safeguards
+remaining_symbols,404,Symbols after safeguards
+symbols_present_on_final_date,404,Used as survivorship-bias warning
+all_remaining_symbols_reach_final_date,1,1 means survivorship concern remains
+first_date,2018-01-01,UTC
+last_date,2026-07-28,UTC
+derivative_collateral,2211,Excluded symbols=1
+metal_backed,2286,Excluded symbols=2
+multiplier_contract,2765,Excluded symbols=4
+stable_or_pegged,2364,Excluded symbols=7
+tokenized_equity_or_index,1123,Excluded symbols=39
+wrapped_or_staked,650,Excluded symbols=1
+rows_before_feature_coverage_filter,123382.0,"Universe, history, and target valid"
+rows_after_feature_coverage_filter,123233.0,Coverage >= 90%
+model_dates,3040.0,Distinct modeling dates
+model_symbols,279.0,Distinct modeled symbols
+median_names_per_date,46.0,After filters
+minimum_names_per_date,5.0,After filters
